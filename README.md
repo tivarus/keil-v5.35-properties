@@ -3,3 +3,4 @@
 #### alt + left - Move backward in the editor navigation history
 #### ctrl + / - comment section
 #### ctrl + . - uncomment section
+#### ctrl + w - close file
